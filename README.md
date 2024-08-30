@@ -1,6 +1,6 @@
-# R6 Account Manager
+# Account Manager
 
-This is a simple account management tool for Rainbow Six Siege accounts, designed to manage multiple Ubisoft accounts and allow you to automatically log into the Ubisoft Connect application with a selected account.
+This is a simple account management tool for accounts, designed to manage multiple Ubisoft accounts and allow you to automatically log into the Ubisoft Connect application with a selected account.
 
 ## How to Use
 
@@ -26,7 +26,7 @@ Passwords are stored in plain text in a JSON file. This is not secure, and it's 
    ```
 2. Run the application:
    ```bash
-   python R6AccountManager.py
+   python AccountManager.py
    ```
 
 ## Disclaimer
